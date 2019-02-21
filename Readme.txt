@@ -7,10 +7,10 @@
 	Error code  : http://localhost:8000/TestServices/error-Code
 	
 	
-Note : Http-status-code add your status code.
-	   error-code add you error-code
+Note :  Http-status-code add your status code.
+	error-code add you error-code
 	   
-	   Example : http://localhost:8000/TestServices/httpStatus/409
-				 http://localhost:8000/TestServices/JWF002001
+	Example : http://localhost:8000/TestServices/httpStatus/409
+		  http://localhost:8000/TestServices/JWF002001
 
 	   
