@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 500,
+    "errors": [
+        {
+            "code": "JWF002000",
+            "message": "server encountered an unexpected condition",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}

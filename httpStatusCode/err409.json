@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 409,
+    "errors": [
+        {
+            "code": "JWF000404",
+            "message": "Job to be resumed is not in the â€˜pausedâ€™ state",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}

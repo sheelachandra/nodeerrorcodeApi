@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 503,
+    "errors": [
+        {
+            "code": "JWF101100",
+            "message": "Authz service is unavailable",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}

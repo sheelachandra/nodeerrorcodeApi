@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 400,
+    "errors": [
+        {
+            "code": "JWF002001",
+            "message": "input request is invalid",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}

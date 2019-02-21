@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 200,
+    "errors": [
+        {
+            "code": "",
+            "message": "Success",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}

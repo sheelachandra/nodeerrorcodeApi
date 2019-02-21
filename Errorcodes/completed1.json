@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "id": "SDF9MNOPOT4OPPPDF",
+  "createdAt": "2018-05-10T07:41:04.538Z",
+  "jobName": "SmartTaskJob1",
+  "state": {
+    "code": "completed",
+    "reason": "NONE",
+    "stateChangedAt": "2018-05-10T07:40:04.538Z",
+    "workloadStatusInfo": {
+      "type": "smartTaskStatus",
+      "object": {
+        "repositoryStatuses": [
+          {
+            "status": {
+              "dateTime": "2018-05-10T07:41:04.538Z",
+              "status": "completed"
+            },
+            "appliedRepositoryStatus": {
+              "type": "googleDrive",
+              "relativeFolderName": "Receipts"
+            }
+          }
+        ],
+        "emailStatus": {
+          "status": {
+            "dateTime": "2018-05-10T07:41:04.538Z",
+            "status": "completed"
+          },
+          "appliedEmailConfig": {
+            "tos": [
+              "sheelaatooty@gmail.com"
+            ],
+            "subject": "Test Subject"
+          }
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://jees-<stack>.hp8.us/tenzing/v1/jobs/id/SDF9MNOPOT4OPPPDF "
+    },
+    {
+      "rel": "getWorkLoad",
+      "href": "https://jees-<stack>.hp8.us/tenzing/v1/jobs/definition/SDF9MNOPOT4OPPPDF "
+    }
+  ]
+}

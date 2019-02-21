@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "serviceName": "Tenzing",
+    "httpStatusCode": 401,
+    "errors": [
+        {
+            "code": "JWF000400",
+            "message": "Access token is invalid",
+            "details": "Job is not in paused state: error"
+        }
+    ]
+}
